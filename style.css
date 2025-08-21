@@ -69,7 +69,7 @@ nav button:hover {
 
 .home-bg {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                    url("/imgs/rtz.avif");
+                    url("./imgs/rtz.avif");
   background-size: cover;
   background-position: center;
     background-attachment: fixed;
@@ -142,7 +142,7 @@ nav button:hover {
 
 .menu-bg {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-                    url("/imgs/rty.jpeg");
+                    url("./imgs/rty.jpeg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -168,7 +168,7 @@ nav button:hover {
 
 .about-bg {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-                    url("/imgs/rt.avif");
+                    url("./imgs/rt.avif");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
